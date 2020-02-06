@@ -54,8 +54,12 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
-                'I really hate drags! Don\'t drag me!',
+                'I heyt drags! Don\'t drag me!',
                 style: TextStyle(fontSize: 30),
+              ),
+              Text(
+                'HUwag mo ako sobokan',
+                style: TextStyle(fontSize: 20),
               ),
               Text(
                 '$_counter',
